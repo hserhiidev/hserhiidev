@@ -1,5 +1,14 @@
-## Hi there 👋
+### Hey there 👋
 
+I'm **[Serhii](https://www.linkedin.com/in/serhii-hubych-402a5a31b/ "My Linkedin profile")**, a front-end developer based in Ukraine
+
+I build  high-performance web and mobile applications, paying special attention to code cleanliness and scalable architecture.
+For me, these are not just words — they are the foundation of reliable and durable software.
+
+Clean code and architecture are a must. Every line I write is an investment in the future maintenance of the project. 
+I believe in code that is easy to read, easy to test, and easy to extend.
+
+Open to collaborating on projects that value engineering excellence and user-centric design
 <!--
 **hserhiidev/hserhiidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
