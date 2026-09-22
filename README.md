@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm **[Serhii](https://www.linkedin.com/in/serhii-hubych-402a5a31b/ "My Linkedin profile")**, a front-end developer based in Ukraine
+I'm **[Serhii](https://www.linkedin.com/in/serhii-hubych-402a5a31b/ "My Linkedin profile")**, a Full Stack Developer based in Ukraine
 
 I build  high-performance web and mobile applications, paying special attention to code cleanliness and scalable architecture.
 For me, these are not just words — they are the foundation of reliable and durable software.
